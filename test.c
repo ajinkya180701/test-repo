@@ -1,6 +1,6 @@
 <stdio.h>
 int main(){
 int a=10, b=20;
-printf(a+b);
+printf(a*b);
 return 0;
 }
